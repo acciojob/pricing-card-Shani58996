@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+#a{
+	background-color:#f0f3f7;
+	width:%;
+	height:100%;
+	padding :1.5em;
+	box-shadow:
+}
+img{
+	border-radius: .3rem;
+	text-align:center;
+}
+.i{
+	background:red;
+	color:white;
+	text-decoration-line:none;
+}
